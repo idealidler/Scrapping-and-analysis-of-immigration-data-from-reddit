@@ -12,7 +12,7 @@ To avoid losing data, the time interval in the while loop has been reduced to 86
 
 ## Requirements
 
-The project was developed using Python 3.x and the following libraries:
+The project was developed using Python 3.8 and the following libraries:
 
 1. Datetime
 2. Requests
