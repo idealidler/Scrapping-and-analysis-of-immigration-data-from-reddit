@@ -14,12 +14,12 @@ To avoid losing data, the time interval in the while loop has been reduced to 86
 
 The project was developed using Python 3.x and the following libraries:
 
-Datetime
-Requests
-Json
-Pandas
-Numpy
-Re
+1. Datetime
+2. Requests
+3. Json
+4. Pandas
+5. Numpy
+6. Re
 
 ## How to Run
 
